@@ -42,7 +42,7 @@ const Header = ( ) => {
   	<Wrapper>
       <Container>
         <HeaderWrapper>
-          <Link to="/page-2">
+          <Link to="/inner-page">
             <Logo>   
               jifcast
             </Logo>
