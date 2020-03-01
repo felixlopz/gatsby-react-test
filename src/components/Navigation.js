@@ -90,7 +90,7 @@ const Icon = styled.img`
 const Navigation = () => {
 
 	const [isOpen, setIsOpen] = useState(false);
-	const isMatch = useMatch('/inner-page);
+	const isMatch = useMatch('/inner-page');
 
   return (
       <NavWrapper isOpen={isOpen}>
